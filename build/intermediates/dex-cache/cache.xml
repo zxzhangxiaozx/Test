@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhangxiao/Desktop/project/cordova/Test/platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="009bee7c73a08e56332092d790edb40d68b63e60">
+        <dex dex="/Users/zhangxiao/Desktop/project/cordova/Test/platforms/android/build/intermediates/pre-dexed/debug/classes_a3b1d5a9fd6581642c2c6d159bf358dd5750224a.jar" />
+    </item>
+
+</items>
