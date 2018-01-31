@@ -226,10 +226,10 @@ android {
         signingConfigs {
             release {
                 // These must be set or Gradle will complain (even if they are overridden).
-                keyAlias = ""
-                keyPassword = "__unset" // And these must be set to non-empty in order to have the signing step added to the task graph.
-                storeFile = null
-                storePassword = "__unset"
+                keyAlias = "key0"
+                keyPassword = "123456" // And these must be set to non-empty in order to have the signing step added to the task graph.
+                storeFile = "./../test.jks"
+                storePassword = "123456"
             }
         }
         buildTypes {
